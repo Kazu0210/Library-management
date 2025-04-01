@@ -11,7 +11,7 @@
             <li><a href="#">Home</a></li>
             <li><a href="#">Books</a></li>
             <li><a href="#">Login</a></li>
-            <li><a href="#">Register</a></li>
+            <li><a href="register.php">Register</a></li>
         </ul>
     </navbar>
     <section>
