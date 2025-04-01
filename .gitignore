@@ -1,0 +1,5 @@
+# Ignore all empty folders
+*/
+
+# But track the "empty-folder"
+!empty-folder/
