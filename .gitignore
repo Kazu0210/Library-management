@@ -1,5 +1,5 @@
-# Ignore all empty folders
-*/
+# Ignore everything in this folder
+empty-folder/*
 
-# But track the "empty-folder"
-!empty-folder/
+# But allow the folder itself to be tracked
+!empty-folder/.gitkeep
